@@ -1,0 +1,23 @@
+.body {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+}
+
+p {
+  text-align: left;
+}
+
+.nav-item {
+  padding-left: 10px;
+}
+
+.nav-item a {
+  color: black;
+
+}
+
+.nav-item a:hover {
+  text-decoration: underline;
+  color: black
+}
